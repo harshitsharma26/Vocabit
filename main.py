@@ -15,8 +15,8 @@ while True:
 	if data == None:
 		continue
 	if previousData != data:										# checking if there is a change in the word in clipboard
-		app_id = 'd319fb3e'											# use your Oxford Api-id here
-		app_key = '07ea842b9d9d16199e5943e28d782f28'				# use your Oxford Api-key here
+		app_id = ''											# use your Oxford Api-id here
+		app_key = ''				# use your Oxford Api-key here
 
 		language = 'en'
 		word_id = data
