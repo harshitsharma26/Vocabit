@@ -1,4 +1,4 @@
-#Vocabit
+# Vocabit
 This is a python based automation script which can be used to automate the process of finding a word meaning. This script helps to fetch the word meaning as a pop up anywhere in the computer. 
 
 
@@ -7,9 +7,9 @@ This is a python based automation script which can be used to automate the proce
 
 ## **How to run ?**
 
-
+```sh
   python2 main.py
-
+```
 
 Now the word for which the meaning has to be fetched should be selected and copied. The script will automatically fetch the word meaning and show as a pop up.
 
